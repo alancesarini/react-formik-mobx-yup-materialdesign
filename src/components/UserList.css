@@ -1,0 +1,13 @@
+.user-list {
+  padding: 20px;
+}
+
+.progress {
+  text-align: center;
+}
+
+.skeleton {
+  margin: 15px;
+  width: 210px;
+  height: 246px;
+}
